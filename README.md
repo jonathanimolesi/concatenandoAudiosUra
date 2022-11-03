@@ -51,4 +51,4 @@ Copiando para a pasta correspondente
 Lendo a lista que esta em ordem, abrindo os arquivos em suas variaveis e fazendo a concatenação
 
 
-Para meu caso, foi identificado arquivos até com 12 separações. Portanto foi o máximo necessário.
+Para meu caso, foi identificado arquivos até com 12 separações. Portanto foi o máximo necessário. #vitrinedev
