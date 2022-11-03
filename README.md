@@ -1,3 +1,14 @@
+# modelo-vitrinedev
+# Concatenação áudios URA
+
+Concatenando áudios que são divididos automáticamente pela Ura
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Concatenando Áudios da Ura*
+| :label: Tecnologias | python
+
+
 # concatenandoAudiosUra
 Concatenação de Áudios da Ura
 
