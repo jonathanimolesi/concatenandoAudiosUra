@@ -19,16 +19,16 @@ Segundo arquivo python:
 Passo02-Verificando_repeticoes.py
 
 Aqui criamos algumas listas vazias para serem preenchidas automáticamente.
-# Checando os arquivos em mp3 no diretório, abrindo o arquivo quantos.txt criado no Passo 01
-# depois contando as ocorrências de repetição de nomes dos áudios
-# Na minha estrutura Ura, os arquivos de áudios são salvos no formato: 1_xxxxxxxxxxxx_xxxxxxxxxxxx.mp3
-# Nesse caso, estamos dividindo o nome do arquivo por _
-# Depois estamos novamente adicionando o prefixo 1_ para fazer a contagem dos nomes
-# Essa ação é necessária, pois encontrei áudios com as duas sequencias(xxxxxx_xxxxx) identicas, o que levava a contagem
-# incorreta. Dessa forma evitamos isso.
+ Checando os arquivos em mp3 no diretório, abrindo o arquivo quantos.txt criado no Passo 01
+ depois contando as ocorrências de repetição de nomes dos áudios
+ Na minha estrutura Ura, os arquivos de áudios são salvos no formato: 1_xxxxxxxxxxxx_xxxxxxxxxxxx.mp3
+ Nesse caso, estamos dividindo o nome do arquivo por _
+ Depois estamos novamente adicionando o prefixo 1_ para fazer a contagem dos nomes
+ Essa ação é necessária, pois encontrei áudios com as duas sequencias(xxxxxx_xxxxx) identicas, o que levava a contagem
+ incorreta. Dessa forma evitamos isso.
 Depois:
-# Aqui estamos lendo as listas criadas e criando um arquivo txt separando áudios por vezes de repetição
-# Ex: áudios que são necessários 2 concatenações, 3, 4 etc.
+ Aqui estamos lendo as listas criadas e criando um arquivo txt separando áudios por vezes de repetição
+ Ex: áudios que são necessários 2 concatenações, 3, 4 etc.
 
 Terceiro arquivo python:
 Passo03-Criando_pastas-Copiando_arquivos-e-Concatenando.py
